@@ -12,8 +12,30 @@
 - Fabrizio Alessandro Sanchez Zamora (U202213652)
 - Pescorán Angulo Juan Fabritzzio (U20221C936)
 - Luiggi Gianfranco Paredes Zapata (U202218996)
-- - - 
 ### FECHA: MARZO 2024
+
+- - - 
+
+# Registro de Versiones del Informe
+
+Versión               | Fecha     | Autores                 | Descripción de Modificación
+----------------------|-----------|-------------------------|-----------------------------------------------
+Primera entrega (TB1) | -/-/2024  | - Juan Pescorán         | - Se realizó x cosa <br> - Se realizó y cosa
+Primera entrega (TB1) | -/-/2024  | - Fabrizio Sanchez      | - Se realizó x cosa <br> - Se realizó y cosa
+Primera entrega (TB1) | -/-/2024  | - Juan Cueto            | - Se realizó x cosa <br> - Se realizó y cosa
+Primera entrega (TB1) | -/-/2024  | - Luiggi Paredes        | - Se realizó x cosa <br> - Se realizó y cosa
+Primera entrega (TB1) | -/-/2024  | - Miguel                | - Se realizó x cosa <br> - Se realizó y cosa
+- - -
+# Project Report Collaboration
+
+El siguiente enlace lleva al URL del repositorio que se encuentra en nuestra
+organización pública: https://github.com/Los-seniors/Informe
+
+Aquí se encuentra el resultado del Project Report de la entrega correspondiente.
+
+A continuación, se explicará todo a cerca del desarrollo de activades para la
+elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github.
+
 
 # Contenido
 ## Tabla de contenidos
@@ -104,6 +126,13 @@
         Video About-the-Team.
         Bibliografía
         Anexos
+
+# Student Outcome
+
+Criterio Específico | Acciones Ralizadas           | Conclusiones 
+--------------------|------------------------------|--------------
+Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| **Juan Pescorán** <br> - TB1 |              |
+Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | **Juan Pescorán** <br> - TB1 |              |
 
 
 # **Capítulo I: Introducción**
