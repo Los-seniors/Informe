@@ -155,7 +155,7 @@ Somos una compañía recién creada llamada "" que tiene una misión en mente: *
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-#### Uso de la técnica " The 5'W' s w Y 2'H's"
+#### Uso de la técnica " The 5'W' s w Y 2'H's" 
 **Who:** Personas interesadas en mejorar su salud
 y condición física, así como profesionales del
 coaching en áreas como el ejercicio y la nutrición. <br><br>
