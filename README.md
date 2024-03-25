@@ -18,13 +18,14 @@
 
 # Registro de Versiones del Informe
 
-Versión               | Fecha     | Autores                 | Descripción de Modificación
-----------------------|-----------|-------------------------|-----------------------------------------------
-Primera entrega (TB1) | -/-/2024  | - Juan Pescorán         | - Se realizó x cosa <br> - Se realizó y cosa
-Primera entrega (TB1) | -/-/2024  | - Fabrizio Sanchez      | - Se realizó x cosa <br> - Se realizó y cosa
-Primera entrega (TB1) | -/-/2024  | - Juan Cueto            | - Se realizó x cosa <br> - Se realizó y cosa
-Primera entrega (TB1) | -/-/2024  | - Luiggi Paredes        | - Se realizó x cosa <br> - Se realizó y cosa
-Primera entrega (TB1) | -/-/2024  | - Miguel                | - Se realizó x cosa <br> - Se realizó y cosa
+| Versión               | Fecha    | Autores            | Descripción de Modificación                  |
+|-----------------------|----------|--------------------|----------------------------------------------|
+| Primera entrega (TB1) | -/-/2024 | - Juan Pescorán    | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Miguel           | - Se realizó x cosa <br> - Se realizó y cosa |
+
 - - -
 # Project Report Collaboration
 
@@ -129,14 +130,25 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Student Outcome
 
-Criterio Específico | Acciones Ralizadas           | Conclusiones 
---------------------|------------------------------|--------------
-Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| **Juan Pescorán** <br> - TB1 |              |
-Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | **Juan Pescorán** <br> - TB1 |              |
+| Criterio Específico                                                                                                                                  | Acciones Ralizadas           | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Juan Pescorán** <br> - TB1 |              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **Juan Pescorán** <br> - TB1 |              |
 
 
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
+
+<p>Somos una compañía recién creada llamada "" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
+<br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad. Los integrantes que conforman este equipo son:
+
+| No escribir aqui, (sale en negrita)    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![UPC](Imagenes/JuanPescoran_Foto.png) | Mi nombre es Juan Fabritzzio Pescorán Angulo con el código de estudiante u20221c936, estoy estudiando la carrera de Ingeniería de Software. Tengo conocimientos que pueden aportar al proyecto, tales como: códificar en C#, SQL y aplicar la metodología Scrum. Las habilidades que puedo aportar a mi equipo son responsabilidad y puntualidad con la entrega de trabajos, esfuerzo con las tareas que debo realizar para el avance del proyecto y liderazgo para guiar a todos mis compañeros de equipo para presentar un producto impecable. |
+| Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
+| Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
+| Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
+| Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
 ## 1.2. Solution Profile
