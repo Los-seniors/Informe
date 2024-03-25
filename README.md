@@ -135,7 +135,6 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Juan Pescorán** <br> - TB1 |              |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **Juan Pescorán** <br> - TB1 |              |
 
-
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -155,7 +154,7 @@ Somos una compañía recién creada llamada "" que tiene una misión en mente: *
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-#### Uso de la técnica " The 5'W' s w Y 2'H's" 
+#### Uso de la técnica " The 5'W' s w Y 2'H's"
 **Who:** Personas interesadas en mejorar su salud
 y condición física, así como profesionales del
 coaching en áreas como el ejercicio y la nutrición. <br><br>
@@ -195,9 +194,6 @@ incluidas. <br><br>
 - #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo.
-
-# **Capítulo II: Requirements Elicitation & Analysis**
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
