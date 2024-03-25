@@ -138,9 +138,12 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
 
-<p>Somos una compañía recién creada llamada "" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
+Somos una compañía recién creada llamada "" que tiene una misión en mente: **mejorar la salud de todos nuestros usuarios mediante ayuda personalizada**.
 <br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad. Los integrantes que conforman este equipo son:
+
+### 1.1.2. Perfiles de integrantes del equipo
 
 | No escribir aqui, (sale en negrita)    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -149,8 +152,7 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 | Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
 | Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
 | Imagen del integrante                  | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
-### 1.1.1. Descripción de la Startup
-### 1.1.2. Perfiles de integrantes del equipo
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
